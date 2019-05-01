@@ -1,6 +1,12 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
-
+let sandwitch = () => {
+  console.log("Here we have the bread.")
+  let cheese = cheedar;
+  let meat = () => {
+    console.log("I am the meat, maybe turkey.")
+  }
+}
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
